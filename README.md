@@ -1,21 +1,38 @@
 # What factors are associated with the commercial success of video games 
 
 ## Project Overview
-This Project is focused on creating and analyzing a data set of games within a span of a year  (August 2025 -  August 2026) diving deeper on what drives success within video games
+The project is focused on creating and analysing a dataset of games which was published from August 2025 - August 2026; Specifically on what factors drove the success of video games, I will compare and evaluate and finally conclude what drives success due to the findings I have encountered within the past year.
 
+### The workflow will be the following:
 
-Games has been striving for the past decades, it suits all age ranges and can blah blah blahh dksajbdkasbdkjbaskjdbaskdbkjasbdkjasbdkjasbdkjbasdbaksbdasbdjbaskbdsajkdbasdbjasbdkjasbdjbasdkbasdbjkasbdkjabsdjbasdbkabdjabdassadasdas
+RAWG API
+     ↓
+🐍 Python
+     ↓
+CSV
+     ↓
+📊 Excel
+     ↓
+🗄️ SQL
+     ↓
+🐍 Python analysis
+     ↓
+📈 Tableau
 
 
 ## 01 - How the Data was Gathered
-It all started by extracting RAW data from the RAWG API by using python
+The aim is to gather as much data as I can in terms of games as it would be more time consuming if I handpicked each 90+ games 
 <img width="470" height="414" alt="image" src="https://github.com/user-attachments/assets/cf69b9f3-845a-4249-b190-10d5f927293d" />
+
+so I started by scraping information from RAWG which I then (in python) dug through the ‘results’ which showcased  the playtime, name, rating, id, owned, beaten and more but the main aim is to grasp information I can compare which in the end I found was the rating, platform and genre.
+
+
 
 → View full Python notebook
 
 
 
-I then made this code a list loop list by adding a for statement and commas, this would then help when it all gets imported within Excel by using Get Data 
+I wanted the information I found to be transferred into excel so I can add more data efficiently so I I used my for loop, printing the following games as a list so I can separate it as commas in excel
 
 <img width="429" height="291.5" alt="Screenshot 2026-09-09 131837" src="https://github.com/user-attachments/assets/f2424e2d-f595-4c4d-848b-51a38d813208" />
 
