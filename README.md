@@ -16,4 +16,4 @@ I then made this code a list loop list by adding a for statement and commas, thi
 <img width="858" height="583" alt="Screenshot 2026-09-09 131837" src="https://github.com/user-attachments/assets/f2424e2d-f595-4c4d-848b-51a38d813208" />
 
 as it only extracted 41 games I had to manually research for the rest of the games. 
-The sources I looked for games are the following:
+The sources I looked for games will be at the bottom of this page
