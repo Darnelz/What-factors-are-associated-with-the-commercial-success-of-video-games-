@@ -24,7 +24,7 @@ CSV
 The aim is to gather as much data as I can in terms of games as it would be more time consuming if I handpicked each 90+ games 
 <img width="470" height="414" alt="image" src="https://github.com/user-attachments/assets/cf69b9f3-845a-4249-b190-10d5f927293d" />
 
-so I started by scraping information from RAWG which I then (in python) dug through the ‘results’ which showcased  the playtime, name, rating, id, owned, beaten and more but the main aim is to grasp information I can compare which in the end I found was the rating, platform and genre.
+I started first by scraping information from RAWG which I then (in python) dug through the ‘results’ which showcased  the playtime, name, rating, id, owned, beaten and more but the main aim is to grasp information I can compare which in the end I found was the rating, platform and genre.
 
 
 
@@ -33,7 +33,6 @@ so I started by scraping information from RAWG which I then (in python) dug thro
 
 
 I wanted the information I found to be transferred into excel so I can add more data efficiently so I I used my for loop, printing the following games as a list so I can separate it as commas in excel
-
 <img width="429" height="291.5" alt="Screenshot 2026-09-09 131837" src="https://github.com/user-attachments/assets/f2424e2d-f595-4c4d-848b-51a38d813208" />
 
 as it only extracted 41 games I had to manually research for the rest of the games. 
