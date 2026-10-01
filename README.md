@@ -22,6 +22,7 @@ The sources I looked for games will be at the bottom of this page
 ## 02 - Cleaning the Data
 ### Old Data
 <img width="554" height="517" alt="image" src="https://github.com/user-attachments/assets/b7be138f-e807-4ed3-a62c-fa7f6e5f2df8" /> 
+‎ 
 blah blah explaing what I wanted to change in this old data 
 ‎ 
 
