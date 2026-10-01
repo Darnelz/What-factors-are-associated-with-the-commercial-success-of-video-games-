@@ -7,7 +7,7 @@ This Project is focused on creating and analyzing a data set of games within a s
 It all started by extracting RAW data from the RAWG API by using python
 <img width="470" height="414" alt="image" src="https://github.com/user-attachments/assets/cf69b9f3-845a-4249-b190-10d5f927293d" />
 
-### → View full Python notebook
+→ View full Python notebook
 
 
 
@@ -34,7 +34,80 @@ Explaining the good things in this data and the changes I did to it
 → View cleaned dataset
 
 
+## 03 - SQL Analysis
+The Goal here is to Answer the question in form of SQL, underneath is the following which helped me calculate  how I figured out the question (bru idk)
+
+### Q1: How does commercial performance differ between Indie, AA and AAA games? 
+
+ 
+My hope is to 
+Compare median copies sold per game
+Compare median revenue per game
+Compare distributions rather than just totals
+Show the number of games in each category alongside the results
+
+<img width="638" height="680" alt="image" src="https://github.com/user-attachments/assets/fd0c8bd5-57d1-4333-9e91-3040d02b4af5" />
 
 
+→ View SQL Queries
+
+### Q2: Which genres sell the most copies?  
+You could compare the total sales or average/median sales for each genre. 
+
+Better doing sold most copies than revenue as makes it unfair
+
+<img width="342" height="236" alt="image" src="https://github.com/user-attachments/assets/7a3b3bd5-8d2c-458f-9b55-c708386f30d3" />
+
+→ View SQL Queries
+
+
+### Q3: Does a game's rating relate to its commercial performance? 
+Rating → Copies Sold + Revenue 
+
+<img width="616" height="699" alt="image" src="https://github.com/user-attachments/assets/09d743ad-6d16-4e8a-8843-4b110e5898d6" />
+
+
+→ View SQL Queries
+
+
+### Q4: Does game price affect how many copies are sold? 
+Is there a relationship between game price and copies sold?
+
+<img width="227" height="194" alt="image" src="https://github.com/user-attachments/assets/e58616dc-2c90-47ff-89c5-6238e149f1b6" />
+
+
+→ View SQL Queries
+
+
+### Q5: Does a game's release period relate to its commercial performance? 
+
+
+<img width="418" height="296" alt="image" src="https://github.com/user-attachments/assets/168ea63c-29f3-49d1-9cb5-f54e942f7851" />
+
+
+→ View SQL Queries
+
+
+## 04 — STATISTICAL ANALYSIS
+
+
+## 05 —FINDINGS
+QUESTION 1
+
+[GRAPH]
+
+Finding...
+
+QUESTION 2
+
+[GRAPH]
+
+Finding...
+
+QUESTION 3
+
+[GRAPH]
+
+Finding...
 
 
