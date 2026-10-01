@@ -2,6 +2,9 @@
 
 This Project is focused on creating and analyzing a data set of games within a span of a year  (August 2025 -  August 2026) diving deeper on what drives success within video games
 
+## Project Overview
+Games has been striving for the past decades, it suits all age ranges and can blah blah blahh dksajbdkasbdkjbaskjdbaskdbkjasbdkjasbdkjasbdkjbasdbaksbdasbdjbaskbdsajkdbasdbjasbdkjasbdjbasdkbasdbjkasbdkjabsdjbasdbkabdjabdassadasdas
+
 
 ## 01 - How the Data was Gathered
 It all started by extracting RAW data from the RAWG API by using python
