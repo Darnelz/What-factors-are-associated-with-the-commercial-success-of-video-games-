@@ -5,6 +5,6 @@ This Project is focused on creating and analyzing a data set of games within a s
 
 ## 01 - How the Data was Gathered
 It all started by extracting RAW data from the RAWG API by using python
-<img width="940" height="828" alt="image" src="https://github.com/user-attachments/assets/cf69b9f3-845a-4249-b190-10d5f927293d" />
+<img width="470" height="414" alt="image" src="https://github.com/user-attachments/assets/cf69b9f3-845a-4249-b190-10d5f927293d" />
 
 ### → View full Python notebook
