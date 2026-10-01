@@ -22,6 +22,7 @@ CSV
 
 ## 01 - How the Data was Gathered
 The aim is to gather as much data as I can in terms of games as it would be more time consuming if I handpicked each 90+ games 
+
 <img width="470" height="414" alt="image" src="https://github.com/user-attachments/assets/cf69b9f3-845a-4249-b190-10d5f927293d" />
 
 I started first by scraping information from RAWG which I then (in python) dug through the ‘results’ which showcased  the playtime, name, rating, id, owned, beaten and more but the main aim is to grasp information I can compare which in the end I found was the rating, platform and genre.
