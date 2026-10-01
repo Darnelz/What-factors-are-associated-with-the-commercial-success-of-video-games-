@@ -1,4 +1,4 @@
-<img width="479" height="141" alt="image" src="https://github.com/user-attachments/assets/1b2fce0d-60f8-492b-8a1f-eb0d85ade3c9" /># What factors are associated with the commercial success of video games 
+# What factors are associated with the commercial success of video games 
 
 This Project is focused on creating and analyzing a data set of games within a span of a year  (August 2025 -  August 2026) diving deeper on what drives success within video games
 
