@@ -6,17 +6,17 @@ The project is focused on creating and analysing a dataset of games which was pu
 ### The workflow will be the following:
 
 RAWG API
-     ↓
+     → 
 🐍 Python
-     ↓
+     → 
 CSV
-     ↓
+     → 
 📊 Excel
-     ↓
+     → 
 🗄️ SQL
-     ↓
+     → 
 🐍 Python analysis
-     ↓
+     → 
 📈 Tableau
 
 
