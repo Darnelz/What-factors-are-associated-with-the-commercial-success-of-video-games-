@@ -33,6 +33,7 @@ I started first by scraping information from RAWG which I then (in python) dug t
 
 
 I wanted the information I found to be transferred into excel so I can add more data efficiently so I I used my for loop, printing the following games as a list so I can separate it as commas in excel
+
 <img width="429" height="291.5" alt="Screenshot 2026-09-09 131837" src="https://github.com/user-attachments/assets/f2424e2d-f595-4c4d-848b-51a38d813208" />
 
 as it only extracted 41 games I had to manually research for the rest of the games. 
