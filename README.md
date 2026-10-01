@@ -1,4 +1,4 @@
-# What factors are associated with the commercial success of video games 
+<img width="479" height="141" alt="image" src="https://github.com/user-attachments/assets/1b2fce0d-60f8-492b-8a1f-eb0d85ade3c9" /># What factors are associated with the commercial success of video games 
 
 This Project is focused on creating and analyzing a data set of games within a span of a year  (August 2025 -  August 2026) diving deeper on what drives success within video games
 
@@ -17,3 +17,15 @@ I then made this code a list loop list by adding a for statement and commas, thi
 
 as it only extracted 41 games I had to manually research for the rest of the games. 
 The sources I looked for games will be at the bottom of this page
+
+
+## 02 - Cleaning the Data
+
+<img width="554" height="517" alt="image" src="https://github.com/user-attachments/assets/b7be138f-e807-4ed3-a62c-fa7f6e5f2df8" /> → <img width="962" height="442" alt="image" src="https://github.com/user-attachments/assets/ba7c082a-bfee-4e9d-8d68-eb6044a9de1d" />
+
+
+
+
+
+
+
