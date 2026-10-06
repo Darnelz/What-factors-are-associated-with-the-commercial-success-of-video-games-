@@ -51,7 +51,7 @@ The sources I looked for games will be at the bottom of this page
 ### New Data
 <img width="962" height="442" alt="image" src="https://github.com/user-attachments/assets/ba7c082a-bfee-4e9d-8d68-eb6044a9de1d" />
 
-I added Copies sold, Revenue and release date in the new data for more comparinsons and insights within my table 
+I added Copies sold, Revenue and release date in the new data for more comparinsons and insights within my table. What I noticed was that within Column 3/ Genres, they were way to broad so I would normally go into either steam to look at the genres and [Metacritic](https://www.metacritic.com/) for the ratings and Platforms for the other remaining games which I manually inputted. the games platforms in the old data was very stiff and broad such as indie when the game genre was more of a Rhythm game such as  Rhythm Doctor 
 
 → View cleaned dataset
 
@@ -63,9 +63,9 @@ The Goal here is to Answer the question in form of SQL, underneath is the follow
 
  
 My hope is to 
-Compare median copies sold per game
-Compare median revenue per game
-Compare distributions rather than just totals
+Compare median copies sold per game,
+Compare median revenue per game,
+Compare distributions rather than just totals,
 Show the number of games in each category alongside the results
 
 <img width="638" height="680" alt="image" src="https://github.com/user-attachments/assets/fd0c8bd5-57d1-4333-9e91-3040d02b4af5" />
@@ -73,9 +73,9 @@ Show the number of games in each category alongside the results
 
 
 ### Q2: Which genres sell the most copies?  
-You could compare the total sales or average/median sales for each genre. 
+The aim was to compare the total sales or average/median sales for each genre. 
 
-Better doing sold most copies than revenue as makes it unfair
+
 
 <img width="342" height="236" alt="image" src="https://github.com/user-attachments/assets/7a3b3bd5-8d2c-458f-9b55-c708386f30d3" />
 
@@ -91,7 +91,7 @@ Rating → Copies Sold + Revenue
 
 
 ### Q4: Does game price affect how many copies are sold? 
-Is there a relationship between game price and copies sold?
+Querying whether there is a relationship between game price and copies sold?
 
 <img width="227" height="194" alt="image" src="https://github.com/user-attachments/assets/e58616dc-2c90-47ff-89c5-6238e149f1b6" />
 
@@ -101,6 +101,7 @@ Is there a relationship between game price and copies sold?
 
 ### Q5: Does a game's release period relate to its commercial performance? 
 
+Querying if any months influence growth in games and what month is the most selling (is there any trends?)
 
 <img width="418" height="296" alt="image" src="https://github.com/user-attachments/assets/168ea63c-29f3-49d1-9cb5-f54e942f7851" />
 
