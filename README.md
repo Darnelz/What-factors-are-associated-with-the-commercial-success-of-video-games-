@@ -71,7 +71,6 @@ Show the number of games in each category alongside the results
 <img width="638" height="680" alt="image" src="https://github.com/user-attachments/assets/fd0c8bd5-57d1-4333-9e91-3040d02b4af5" />
 
 
-→ View SQL Queries
 
 ### Q2: Which genres sell the most copies?  
 You could compare the total sales or average/median sales for each genre. 
@@ -80,7 +79,7 @@ Better doing sold most copies than revenue as makes it unfair
 
 <img width="342" height="236" alt="image" src="https://github.com/user-attachments/assets/7a3b3bd5-8d2c-458f-9b55-c708386f30d3" />
 
-→ View SQL Queries
+
 
 
 ### Q3: Does a game's rating relate to its commercial performance? 
@@ -89,7 +88,6 @@ Rating → Copies Sold + Revenue
 <img width="616" height="699" alt="image" src="https://github.com/user-attachments/assets/09d743ad-6d16-4e8a-8843-4b110e5898d6" />
 
 
-→ View SQL Queries
 
 
 ### Q4: Does game price affect how many copies are sold? 
@@ -98,7 +96,7 @@ Is there a relationship between game price and copies sold?
 <img width="227" height="194" alt="image" src="https://github.com/user-attachments/assets/e58616dc-2c90-47ff-89c5-6238e149f1b6" />
 
 
-→ View SQL Queries
+
 
 
 ### Q5: Does a game's release period relate to its commercial performance? 
