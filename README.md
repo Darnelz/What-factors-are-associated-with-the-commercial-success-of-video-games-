@@ -45,13 +45,13 @@ The sources I looked for games will be at the bottom of this page
 ### Old Data
 <img width="554" height="517" alt="image" src="https://github.com/user-attachments/assets/b7be138f-e807-4ed3-a62c-fa7f6e5f2df8" /> 
 ‎
-blah blah explaing what I wanted to change in this old data 
+
 ‎ 
 
 ### New Data
 <img width="962" height="442" alt="image" src="https://github.com/user-attachments/assets/ba7c082a-bfee-4e9d-8d68-eb6044a9de1d" />
 
-Explaining the good things in this data and the changes I did to it
+I added Copies sold, Revenue and release date in the new data for more comparinsons and insights within my table 
 
 → View cleaned dataset
 
