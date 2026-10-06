@@ -109,10 +109,7 @@ Querying if any months influence growth in games and what month is the most sell
 → View SQL Queries
 
 
-## 04 — STATISTICAL ANALYSIS
-
-
-## 05 —FINDINGS
+## 04 —FINDINGS
 QUESTION 1
 
 [GRAPH]
