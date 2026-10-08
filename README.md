@@ -109,20 +109,37 @@ Querying if any months influence growth in games and what month is the most sell
 ## 04 —FINDINGS
 QUESTION 1
 
-[GRAPH]
+<img width="997" height="796" alt="image" src="https://github.com/user-attachments/assets/bfe59461-4a1e-442d-a294-7637108f2a72" />
+
 
 Finding...
 
 QUESTION 2
 
-[GRAPH]
+<img width="996" height="794" alt="image" src="https://github.com/user-attachments/assets/3f3bc226-2343-4687-9325-719687fa7bbb" />
+
 
 Finding...
 
 QUESTION 3
 
-[GRAPH]
+<img width="993" height="799" alt="image" src="https://github.com/user-attachments/assets/10cba4fb-7b2c-45b5-be3a-31695543a2dc" />
+
 
 Finding...
 
 
+QUESTION 4
+
+<img width="1051" height="1021" alt="image" src="https://github.com/user-attachments/assets/e3e1c18c-5d7f-4bb2-ab32-bcf72d82477a" />
+
+
+Finding...
+
+
+
+QUESTION 5
+
+<img width="992" height="801" alt="image" src="https://github.com/user-attachments/assets/17d77242-bd55-4775-914a-bb89a1baa897" />
+
+Finding...
